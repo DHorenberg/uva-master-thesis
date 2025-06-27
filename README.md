@@ -9,7 +9,7 @@ This study explores to what extent AI-generated images can visually resemble rea
 To address this, the study introduces a new method for quantifying the “iconicity” of an image. In line with the concept discussed by Berg and Berg (2009), iconicity refers to how typical, centred and unambiguous an object is portrayed. Although iconicity has been explored in the context of recognizing general objects, like food, plants and animals, there is a clear gap in applying the concept to images displaying recognizable humans. Additionally, there is little knowledge on any relationship between iconicity and the perceived newsworthiness of an image.
 This study uses image classification techniques as face-, body parts- and emotion-detection to gather key characteristics of object placement in original and generated news images and calculate their iconicity score. The significance of the new method is tested using a human feedback study where respondents are shown an iconic and non-iconic image and are asked to pick the image that is deemed most newsworthy. The study shows convincing results that validate both the new calculation method and the relationship between iconicity and perceived newsworthiness of an image. 
 
-Content:
+## Content:
 These notebooks were used in a Colab Environment. To be able to use it in full a Google Drive account is needed and acces to a GoogleImagesSearch API key. Below the notebooks are explained:
 ### "1. Keep track of downloaded and generated images.ipynb"
 The study downloads images and metadata from the VisualNews dataset. Based on the captions of this images, new images are generated. This notebook helps to keeps track of all images downloaded and generated.
