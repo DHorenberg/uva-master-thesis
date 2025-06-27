@@ -37,3 +37,6 @@ This notebook shows the creation of the plots used in the study.
 
 ### "8. Human_feedback.ipynb"
 This notebook shows the Binomial test performed on the outcomes of the human feedback test that investigates the relationship between iconicity and perceived newsworthiness of an image.
+
+## Contact
+For any comments or questions, please contact me on daan.horenberg@hotmail.com
